@@ -7,6 +7,7 @@
   },
   "scripts": {
     "start": "yarn --cwd packages/Apps/main-app start",
+    "bootstrap": "lerna bootstrap",
     "build:all": "lerna run build",
     "test": "lerna run test",
     "clear": "lerna exec -- rm -rf dist"
