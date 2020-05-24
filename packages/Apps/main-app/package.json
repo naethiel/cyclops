@@ -1,20 +1,20 @@
 {
   "name": "main-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "common-components": "^1.0.0",
-    "data-ingestion": "^0.1.0",
-    "ekorn": "^1.0.0",
+    "common-components": "^1.0.1",
+    "data-ingestion": "^1.0.0",
+    "ekorn": "^1.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "reports": "^0.1.0",
-    "services": "^1.0.0",
-    "signals": "^0.1.0"
+    "reports": "^1.0.0",
+    "services": "^1.0.1",
+    "signals": "^1.0.0"
   },
   "devDependencies": {
     "react-scripts": "3.4.1"

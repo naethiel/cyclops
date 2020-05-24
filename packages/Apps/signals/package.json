@@ -1,6 +1,6 @@
 {
   "name": "signals",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "main": "src/index.js",
   "module": "dist/index.js",
@@ -10,17 +10,17 @@
     "@testing-library/user-event": "^7.2.1"
   },
   "devDependencies": {
-    "react-scripts": "3.4.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
     "@babel/cli": "^7.7.7",
     "@babel/core": "^7.7.7",
     "@babel/preset-env": "^7.7.7",
     "@babel/preset-react": "^7.7.4",
     "babel-jest": "^24.9.0",
-    "babel-preset-react-app": "^9.1.0"
+    "babel-preset-react-app": "^9.1.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1"
   },
-  "peerDependencies": {    
+  "peerDependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
